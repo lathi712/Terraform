@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "totemic-formula-279901",
+  "private_key_id": "f84fc9e0cd30196f663a114dc25f31a49e586a8e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCJvKVm0j1HYAKW\nhX82sE6yseN3Os4uKBjvYjHMONNtrAH0wCAGsvwziWwpd0o3jahk9qLxZbLz1Ry4\nctqBUmB9yftL4mDpRsD+y32ZQ19tDwjJC5eoRqpPxUrQrInhY1tV9InMp+2rk5R3\n7kzK6uJzbn9rIM5lCiA9R07bMf3JnpGIDS4wP5yc+0JZcRYJMSXwQ4udiJXbARrS\nfsJCaqAev3omIfGknmor6GUpWbmEnR5cDc7WqpYRJ4ZhOS8dzPuUiwmFtWgt+FHY\nmxVWPmK/WdaH5U7cOXrAXsDrFaEreuyy7E106AsYrOGrnDx5sWpCpliLtYGbYAoU\nVjdusAwPAgMBAAECggEAB3J/QPV6IbtTuH7EV5kl0CylH2O7FSzO2FanWaLy75me\ny3R95s7TqxexlPZhuWo74iWhvsqgZ+WsdV6kaNyi4fpDT6GQWtyb/8rR4jEN3lAz\nSeeKDiuv9rs0pd7GX7znCdk8gCfORnomy2tDlK8pilM9qXWvIzBueNG7tkdYMQgB\nBjlmc56K4gTpr1EzyvIYcO6bP7vySAakrn+8blZuhYOx+iamT2bufkTFOT08fSrG\nnOS/fbmsPslUm4S8Fyx6Wt3suh1rez2LKae44BhwJtSgHBi9pm93eF2A64p8GKdj\nBju5c8g5cuFH+Ms0bKeUHF4TS2fTf8TVnJ8IsVZuBQKBgQDCDw6xerwNDTLX6p2f\nDgRNKofxpxXrsaiyyZIyfzs+BmUQIuY1+NFeoQ5WCq8jS6xihDSxFkzuR61cG+wU\nPjDvagDEma391jJqNYW+bFZf8lwJuw0umxxyaBFXjwnS9JjjssuxFk+dgCxLgep/\n5RYfYYOKGoh46nLRVRW5rH9biwKBgQC1s2ja6kDOaQnIXvC3TfnZmemuPSle/hy3\nkPeev3lxxrNiZuLWpp4zqPV6AWj4zsHc2Mwe1kfEb2Hcw0WMKQFntjSdtUr1HST8\ndyFwNm1bdkcGSoZvbA358bdpET5LeiTrzgstQZzIQW41/9oIl6QD1JaH9/CuIA0p\nnW5FmO3yDQKBgFFhtyu+6PYgPt5FyexWGH+0AmbZR1wcmT7BQcpjiRit3dwyhpDD\n1Cn3KOf0exY2OgjmoKJTU9fpv04Nd6fVnPgKYGASguEc3u+jmn8NN/vsy6RZCWIu\nMnPYKM2rctdBNIzpAns1fBX1Fp5j0U/pZqmqX1ufXPQ4fgZDxGSlbpOZAoGADmic\nvwdmfjfMI8yLkC2py3yuEDgfaL4D7vaa/Ea4zbHxFbOM93KdBwG1/afQ+DIFI4s5\nnJRneodOnmAJytSRnPTQ9VSkDg3ymeakiy51u5QEi9YrFPjfnttxLO7GHtwfw2dC\ncaNLWIH/yF5yns3PntIj4cJinpxCDvPCA9jdvZ0CgYACeldYfb9HViLtdYhOMoRb\n2rgNiVFovipYm8YDRZ6rhPGAIU8JIhsE1Xv277794h9WPc2f+ImrqCOqORZzjYOq\nBR7xh8XS/mPxtO8bRLTvXuW5rBiu1UR/oOtmSYWoMpfaBkySudjfKnKLbPTrHK2o\nS2OB28fD0iF8HUc0cvgvcQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform@totemic-formula-279901.iam.gserviceaccount.com",
+  "client_id": "108252185788352046179",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform%40totemic-formula-279901.iam.gserviceaccount.com"
+}
