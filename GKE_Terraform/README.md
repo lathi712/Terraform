@@ -9,20 +9,20 @@ Steps
 Note: sa.json should be replaced with the actual json you are going to use
 
 Initialize terraform for the first time<br />
-`<addr>`terraform init
+```terraform init```
 
 Check what terraform is going to create<br />
-`<addr>`terraform plan
+```terraform plan```
 
 Apply to execute the plan<br />
-`<addr>`terraform apply
+```terraform apply```
 
 Connect to cluster<br />
-	gcloud container clusters get-credentials <cluster_name> --zone <zone> --project <project>
+	```gcloud container clusters get-credentials <cluster_name> --zone <zone> --project <project>```
 
 Eg: gcloud container clusters get-credentials test --zone us-central1-a --project sodium-ray-273902å <br />
 
-`<addr>`kubectl get ns<br />
-`<addr>`kubectl get po -n kube-system
+```kubectl get ns<br />```
+```kubectl get po -n kube-system```
 
 
