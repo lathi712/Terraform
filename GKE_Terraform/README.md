@@ -2,7 +2,7 @@
 Create GKE Cluster using Terraform
 
 Prerequisites:
-Install Terraform (https://www.terraform.io/downloads.html)
+Install Terraform (https://www.terraform.io/downloads.html)<br />
 Create service account in GCP for terraform operations (https://cloud.google.com/iam/docs/creating-managing-service-accounts)
 
 Steps
